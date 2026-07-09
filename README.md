@@ -27,16 +27,7 @@ https://github.com/user-attachments/assets/964f41d0-d465-4b05-b05d-531d6e9cb7dd
 
 https://github.com/user-attachments/assets/647b019d-c263-44aa-9e63-b083618ae3fe
 
-<div align="center">
 
-<!-- Remplacez par votre capture / GIF -->
-<img src="docs/demo.gif" alt="Démo VAE Assistant" width="780"/>
-
-| Diagnostic en streaming | Formulaire & photos | Email artisan |
-|:---:|:---:|:---:|
-| <img src="docs/screen-chat.png" width="250"/> | <img src="docs/screen-form.png" width="250"/> | <img src="docs/screen-email.png" width="250"/> |
-
-</div>
 
 ---
 
